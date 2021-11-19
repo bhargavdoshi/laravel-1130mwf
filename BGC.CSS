@@ -1,0 +1,6 @@
+body {
+    width: 100%;
+    height: 1090PX;
+    background: -webkit-liner-gradien(blue, pink);
+    background: linear-gradient( blue, pink);
+}
